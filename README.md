@@ -2,6 +2,9 @@
 # culture-project
 this project was a fun project i started to showcase my skills in react and my design capabilities as a front end developer. key word in this description is "fun"
 
+##live site 
+
+[link to live site](https://binatari.github.io/culture-project/)
 
 https://user-images.githubusercontent.com/65396478/134680735-5d699afa-d9b6-4138-a895-35e527007186.mp4
 
