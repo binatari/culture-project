@@ -20,7 +20,7 @@ function App() {
 		const scrolls = new locomotiveScroll({
 			el: element, 
 			smooth: true,
-			touchMultiplier: 1,
+			touchMultiplier: 3,
     smartphone: {
         smooth: true,
         breakpoint: 200
